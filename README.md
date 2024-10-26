@@ -59,7 +59,9 @@
         <p>O objetivo do LIEEQ é formar Educadores/Professores quilombolas para assumirem o processo de escolarização em suas comunidades, bem como nos diferentes espaços educacionais formais, não formais e comunitários.</p>
 
         <p>O coordenador do curso, Kaled Sulaiman Khidir, destaca que se espera que o profissional da educação formado no Curso de Licenciatura em Educação Escolar Quilombola, por meio de sua atividade docente, assegure o conhecimento identitário do educando. Dessa forma, ele visa fortalecer a autonomia intelectual e sociocultural, além de desenvolver políticas educacionais que respeitem a diversidade dos sujeitos sociais, possibilitando intervenções sociais baseadas na relação entre saberes tradicionais e conhecimentos científicos.</p>
-        
+
+
+    
         <p>O curso terá uma metodologia dialógica e interativa, com base na realidade das comunidades quilombolas. Os estudantes participarão de aulas teóricas, práticas, atividades de campo e pesquisa, além de seminários e palestras com especialistas.</p>
     </div>
 
